@@ -1,14 +1,14 @@
 # Site
 title:              Poulami Maitra
 bio:                Doer of Things
-description:        "jjcfjg"
+description:        "I am a statistician, dog mother and roommate to my husband, in that order! I love learning new things, trying out different cuisines (very easy way to avoid cooking!), watching streaming content and playing with our dog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/github_photo2.png'
+background:         'assets/img/github_photo3.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://poulamim91.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   poulamimaitra
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email: poulamimaitra91@gmail.com
+#twitter:            username
+facebook:           https://www.facebook.com/ForgivenessAndLove
+github-url:         https://www.github.com/poulamim91
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/poulami-maitra-60b67174/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -61,7 +61,10 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=MlQed-MAAAAJ&hl=en"
 # Gems
 gems:
   - jekyll-mentions

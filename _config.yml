@@ -4,7 +4,7 @@ bio:                Doer of Things
 description:        "I am a statistician, dog mother and roommate to my husband, in that order! I love learning new things, trying out different cuisines (very easy way to avoid cooking!), watching streaming content and playing with our dog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/github_photo2.png'
+logo:               'assets/img/github_photo2_1.JPG'
 background:         'assets/img/github_photo3.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

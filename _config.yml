@@ -61,10 +61,7 @@ linkedin:           https://www.linkedin.com/in/poulami-maitra-60b67174/
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=MlQed-MAAAAJ&hl=en"
+
 # Gems
 gems:
   - jekyll-mentions

@@ -33,7 +33,7 @@ Recently, I finished reading [Empire of Illusion: The End of Literacy and the Tr
 ## Some Photos
 
 {% capture images %}
-    <img src="assets/img/github_photo4.JPG" class="img-responsive" alt=""> </div>
+    <img src="/assets/img/github_photo4.JPG" class="img-responsive" alt=""> </div>
     
 {% endcapture %}
 {% include gallery images=images caption="Photos of Us" cols=3 %}

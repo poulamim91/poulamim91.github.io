@@ -34,8 +34,8 @@ Recently, I finished reading [Empire of Illusion: The End of Literacy and the Tr
 
 {% capture images %}
     ![](/assets/img/github_photo4.JPG)
-    ![](/assets/img/github_photo5.JPG)
     ![](/assets/img/github_photo6.JPG)
+    ![](/assets/img/github_photo5.JPG)
 {% endcapture %}
 {% include gallery images=images caption="Photos of Us" cols=3 %}
 

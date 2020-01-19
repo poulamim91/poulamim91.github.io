@@ -8,6 +8,16 @@ comments: false
 
 I am a statistician, dog mother and roommate to my husband, in that order! I love learning new things, trying out different cuisines (very easy way to avoid cooking!), watching streaming content and playing with our dog. In my free time, I act as a data point (I believe a good one, as I sometimes click on a suggested/recommended options and sometimes search something very different resulting in a good probability distribution or stochastic process over time, I hope) for the recommender systems: I am either in a rabbit hole on youtube or amazon or I am watching a new show on Netflix. My favorite genres are crime thriller and comedy. I also love bollywood movies and am obsessed with the entire movie making process. If I start blogging, I can totally see a large portion of those being about bollywood. I also try to read books as much as I can. To be completely frank though, I do not think I am doing a very good job of that the past few years! `:disappointed:` Finally, thanks to my husband, we also play a lot of board games. If you are as competitive as me and hate losing to your significant other, the list below compiles a set of all the co-operative board games we have played over the years and loved.
 
+## Some Photos of Us
+
+{% capture images %}
+    /assets/img/github_photo4.JPG
+    /assets/img/github_photo6.JPG
+    /assets/img/github_photo5.JPG
+    
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
+
 ## Favorite Co-operative (and some non-coop) Board Games
 * [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic) and all the different versions: A classic.
 * [Mysterium](https://boardgamegeek.com/boardgame/181304/mysterium): Similar to clue and the art work is amazing. This is one of my favorite games to play with N and R (a couple friend of ours), who introduced us to this and many other amazing cooperative board games.
@@ -29,16 +39,6 @@ I am a statistician, dog mother and roommate to my husband, in that order! I lov
 
 I wonder if I just showed that I am a very bad board game player (or maybe P is really good! :wink:) As I said I also watch a lot of TV and movies. I am currently watching [Hinterland](https://www.imdb.com/title/tt2575968/) on Netflix (which I really recommend), after finishing [Happy Valley](https://www.imdb.com/title/tt3428912/?ref_=nv_sr_srsg_0) on Netflix and a rerun of [Made in Heaven](https://www.imdb.com/title/tt6494622/?ref_=nv_sr_srsg_0) on Amazon. 
 Recently, I finished reading [Empire of Illusion: The End of Literacy and the Triumph of Spectacle](https://www.amazon.com/Empire-Illusion-Literacy-Triumph-Spectacle/dp/1568586132/ref=asc_df_1568586132/?tag=hyprod-20&linkCode=df0&hvadid=312446862670&hvpos=1o3&hvnetw=g&hvrand=5909840485477128066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=aud-802037562948:pla-489622427916&psc=1) by Chris Hedges and [Our Revolution: A Future to Believe In](https://www.amazon.com/Our-Revolution-Believe-Bernie-Sanders/dp/1427285330/ref=asc_df_1427285330/?tag=hyprod-20&linkCode=df0&hvadid=312400961658&hvpos=1o1&hvnetw=g&hvrand=17575441291194841534&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=pla-570030255825&psc=1) by Bernie Sanders. Both books are quite impressive in highlighting modern societal issues and would definitely recommend.
-
-## Some Photos
-
-{% capture images %}
-    /assets/img/github_photo4.JPG
-    /assets/img/github_photo6.JPG
-    /assets/img/github_photo5.JPG
-    
-{% endcapture %}
-{% include gallery images=images caption="Photos of Us" cols=3 %}
 
 ## Theme Information
 

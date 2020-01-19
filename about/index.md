@@ -13,7 +13,7 @@ I am a statistician, dog mother and roommate to my husband, in that order! I lov
 * [Mysterium](https://boardgamegeek.com/boardgame/181304/mysterium): Similar to clue and the art work is amazing. This is one of my favorite games to play with N and R (a couple friend of ours), who introduced us to this and many other amazing cooperative board games.
 * [Ghost Stories](https://boardgamegeek.com/boardgame/37046/ghost-stories)
 * [T.I.M.E. Stories](https://boardgamegeek.com/boardgame/146508/time-stories): It is a time travel story and we love the expansions a lot.
-* [Eldritch Horror](https://boardgamegeek.com/boardgame/146021/eldritch-horror): This is another game to play with N and R. 
+* [Eldritch Horror](https://boardgamegeek.com/boardgame/146021/eldritch-horror): This is another game I enjoy playing with N and R. 
 * [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 * [Arkham Horror Card Game](https://boardgamegeek.com/boardgame/205637/arkham-horror-card-game): I am tired of thinking that I am going to lose the game till the very end and then we magically end up winning but my husband, P loves it!
 * [Batman the Animated Series - Gotham City Under Siege](https://boardgamegeek.com/boardgame/252693/batman-animated-series-gotham-city-under-siege): We recently played this for the first time with N and R, really liked it and ended up buying it. 
@@ -27,8 +27,9 @@ I am a statistician, dog mother and roommate to my husband, in that order! I lov
 * [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 * [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner): I have never played this game but P swears by this one.
 
-I wonder if I just showed that I am a very bad board game player (or maybe P is really good! :wink:)
-## Photos
+I wonder if I just showed that I am a very bad board game player (or maybe P is really good! :wink:) As I said I also watch a lot of TV and movies. I am currently watching [Hinterland](https://www.imdb.com/title/tt2575968/) on Netflix, after finishing [Happy Valley](https://www.imdb.com/title/tt3428912/?ref_=nv_sr_srsg_0) on Netflix and a rerun of [Made in Heaven](https://www.imdb.com/title/tt6494622/?ref_=nv_sr_srsg_0) on Amazon. 
+
+## Some Photos
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png

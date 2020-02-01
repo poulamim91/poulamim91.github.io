@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About Me
-tags: [about, me]
+tags: [about, me, poulami, maitra, github, moon, theme]
 date: 2020-01-19
 comments: false
 ---
 
-I am a statistician, dog mother and roommate to my husband, in that order! I love learning new things, trying out different cuisines (very easy way to avoid cooking!), watching streaming content and playing with our dog. In my free time, I am an informative data point for the various recommender systems (I believe a good one, as I split between clicking on a suggested/recommended options and searching something completely different, producing an enlightening stochastic process over time): I am either in a rabbit hole on youtube or amazon or I am watching a new show on Netflix. My favorite genres are crime thriller and comedy. I also love bollywood movies and am obsessed with the entire movie making process. If I start blogging, I can totally see a large portion of those being about bollywood. I also try to read books as much as I can. To be completely frank though, I do not think I am doing a very good job of that the past few years! `:disappointed:` Finally, thanks to my husband, we also play a lot of board games. If you are as competitive as me and hate losing to your significant other, the list below compiles a set of all the co-operative board games we have played over the years and loved.
+I am a statistician, dog mother and roommate to my husband, in that order! I love learning new things, trying out different cuisines (very easy way to avoid cooking!), watching streaming content and playing with our dog. In my free time, I am an informative data point for the various recommender systems (I believe a good one, as I split between clicking on a suggested/recommended options and searching something completely different, producing an enlightening stochastic process over time): I am either in a rabbit hole on youtube or amazon or I am watching a new show on Netflix. My favorite genres are crime thriller and comedy. I also love bollywood movies and am obsessed with the entire movie making process. If I start blogging, I can totally see a large portion of those being about bollywood. I am currently watching [Hinterland](https://www.imdb.com/title/tt2575968/) (which I highly recommend), after finishing [Happy Valley](https://www.imdb.com/title/tt3428912/?ref_=nv_sr_srsg_0) and a rerun of [Made in Heaven](https://www.imdb.com/title/tt6494622/?ref_=nv_sr_srsg_0). I also try to read books as much as I can. To be completely frank though, I do not think I am doing a very good job of that the past few years ::disappointed::! Recently, I finished reading [Empire of Illusion: The End of Literacy and the Triumph of Spectacle](https://www.amazon.com/Empire-Illusion-Literacy-Triumph-Spectacle/dp/1568586132/ref=asc_df_1568586132/?tag=hyprod-20&linkCode=df0&hvadid=312446862670&hvpos=1o3&hvnetw=g&hvrand=5909840485477128066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=aud-802037562948:pla-489622427916&psc=1) by Chris Hedges and [Our Revolution: A Future to Believe In](https://www.amazon.com/Our-Revolution-Believe-Bernie-Sanders/dp/1427285330/ref=asc_df_1427285330/?tag=hyprod-20&linkCode=df0&hvadid=312400961658&hvpos=1o1&hvnetw=g&hvrand=17575441291194841534&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=pla-570030255825&psc=1) by Bernie Sanders. Both books are quite impressive in highlighting modern societal issues and would definitely recommend. You can check out my [goodreads](https://www.goodreads.com/review/list/38209893#) account to get an idea of the books I have read (well, at least these are the ones I remember reading)! 
 
 ## Some Photos of Us
 
@@ -17,6 +17,8 @@ I am a statistician, dog mother and roommate to my husband, in that order! I lov
     
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
+
+Finally, thanks to my husband, we also play a lot of board games. If you are as competitive as me and hate losing to your significant other, the list below compiles a set of all the co-operative board games we have played over the years and loved.
 
 ## Favorite Co-operative (and some non-coop) Board Games
 * [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic) and all the different versions: A classic.
@@ -37,8 +39,7 @@ I am a statistician, dog mother and roommate to my husband, in that order! I lov
 * [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 * [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner): I have never played this game but P swears by this one.
 
-I wonder if I just showed that I am a very bad board game player (or maybe P is really good! :wink:) As I said I also watch a lot of TV and movies. I am currently watching [Hinterland](https://www.imdb.com/title/tt2575968/) on Netflix (which I really recommend), after finishing [Happy Valley](https://www.imdb.com/title/tt3428912/?ref_=nv_sr_srsg_0) on Netflix and a rerun of [Made in Heaven](https://www.imdb.com/title/tt6494622/?ref_=nv_sr_srsg_0) on Amazon. 
-Recently, I finished reading [Empire of Illusion: The End of Literacy and the Triumph of Spectacle](https://www.amazon.com/Empire-Illusion-Literacy-Triumph-Spectacle/dp/1568586132/ref=asc_df_1568586132/?tag=hyprod-20&linkCode=df0&hvadid=312446862670&hvpos=1o3&hvnetw=g&hvrand=5909840485477128066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=aud-802037562948:pla-489622427916&psc=1) by Chris Hedges and [Our Revolution: A Future to Believe In](https://www.amazon.com/Our-Revolution-Believe-Bernie-Sanders/dp/1427285330/ref=asc_df_1427285330/?tag=hyprod-20&linkCode=df0&hvadid=312400961658&hvpos=1o1&hvnetw=g&hvrand=17575441291194841534&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051678&hvtargid=pla-570030255825&psc=1) by Bernie Sanders. Both books are quite impressive in highlighting modern societal issues and would definitely recommend.
+I wonder if I just showed that I am a very bad board game player (or maybe P is really good! :wink:) 
 
 ## Theme Information
 
